@@ -1,0 +1,28 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.header-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile1 {
+  height: 1141px;
+  width: 1025px;
+  flex-wrap: wrap;
+  padding: 0px 24px 0px;
+  background-color: aqua;
+}
+.profile-poeple {
+  height: 296px;
+  width: 476.5px;
+  left: 0px;
+  top: 0px;
+  border-radius: 16px;
+}
